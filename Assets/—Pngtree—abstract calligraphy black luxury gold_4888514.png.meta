@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: a53fe700ef869af478a4088ae5196779
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6829199426294230681
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_0"
+  - first:
+      213: -3483216364907442196
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_1"
+  - first:
+      213: 5249925093133027601
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_2"
+  - first:
+      213: -4540334351778458584
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_3"
+  - first:
+      213: -1006727507281875973
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_4"
+  - first:
+      213: 2512826683593591800
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_5"
+  - first:
+      213: 1639440166133932646
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_6"
+  - first:
+      213: 5894945441465458070
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_7"
+  - first:
+      213: -7831450109830635377
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_8"
+  - first:
+      213: -1842937674488283139
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_9"
+  - first:
+      213: 8895768301492108364
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_10"
+  - first:
+      213: 4695633569840853139
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_11"
+  - first:
+      213: 8773349412589767143
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_12"
+  - first:
+      213: -3197710485365702314
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_13"
+  - first:
+      213: -5605544621485404056
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_14"
+  - first:
+      213: -3165678100520408771
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_15"
+  - first:
+      213: 4911855826034239093
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_16"
+  - first:
+      213: 2097137468216385497
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_17"
+  - first:
+      213: 6228161971321368096
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_18"
+  - first:
+      213: -113888108926257303
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_19"
+  - first:
+      213: 3140571258187548764
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_20"
+  - first:
+      213: -3394892069889792413
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_21"
+  - first:
+      213: 4772216336044238398
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_22"
+  - first:
+      213: 5504448095127959487
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_23"
+  - first:
+      213: -2841575078828900070
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_24"
+  - first:
+      213: 6603941469971428111
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_25"
+  - first:
+      213: -3224120822776987074
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_26"
+  - first:
+      213: -3021940708757052906
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_27"
+  - first:
+      213: -3039740960089148118
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_28"
+  - first:
+      213: 8317255831435286333
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_29"
+  - first:
+      213: -2039369508229233284
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_30"
+  - first:
+      213: -3379613646992865165
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_31"
+  - first:
+      213: -7755437095207201576
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_32"
+  - first:
+      213: -5658867508448816662
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_33"
+  - first:
+      213: 5559535639970998271
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_34"
+  - first:
+      213: 248685135690332860
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_35"
+  - first:
+      213: 896381740924229910
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_36"
+  - first:
+      213: -4353522187113745244
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_37"
+  - first:
+      213: -1948147455854490232
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_38"
+  - first:
+      213: 4710760717533458476
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_39"
+  - first:
+      213: -5222523898254504226
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_40"
+  - first:
+      213: 738245919643788518
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_41"
+  - first:
+      213: -974589999033602959
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_42"
+  - first:
+      213: -6035758898289949064
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_43"
+  - first:
+      213: 4805195099555034309
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_44"
+  - first:
+      213: -5266032850909583105
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_45"
+  - first:
+      213: 2252686419995858108
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_46"
+  - first:
+      213: -5227424248484830522
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_47"
+  - first:
+      213: 606412938910060826
+    second: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_48"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_0"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 359
+        width: 2035
+        height: 1758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7615e6fed4fc931a0800000000000000
+      internalID: -6829199426294230681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_1"
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2115
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef4dd5cb2129afc0800000000000000
+      internalID: -3483216364907442196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_2"
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2107
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1198a919e0b7bd840800000000000000
+      internalID: 5249925093133027601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_3"
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2118
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824ddb876fd7df0c0800000000000000
+      internalID: -4540334351778458584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_4"
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 2115
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb69de7aa26702f0800000000000000
+      internalID: -1006727507281875973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_5"
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2121
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb08b12e8a5fd220800000000000000
+      internalID: 2512826683593591800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_6"
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2113
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662abec152670c610800000000000000
+      internalID: 1639440166133932646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_7"
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5bd075ad0fc150800000000000000
+      internalID: 5894945441465458070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_8"
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2114
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e95f2e99115390800000000000000
+      internalID: -7831450109830635377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_9"
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2107
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfff0f803f19c66e0800000000000000
+      internalID: -1842937674488283139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_10"
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2065
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cfd9e632e147b70800000000000000
+      internalID: 8895768301492108364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_11"
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 2102
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39073cd6add3a2140800000000000000
+      internalID: 4695633569840853139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_12"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1012
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e98bcbbec231c970800000000000000
+      internalID: 8773349412589767143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_13"
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 799
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514c3971437f93d0800000000000000
+      internalID: -3197710485365702314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_14"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 673
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860d2cfbdda1532b0800000000000000
+      internalID: -5605544621485404056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_15"
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 773
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d396f314a804114d0800000000000000
+      internalID: -3165678100520408771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_16"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 691
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57624b289da6a2440800000000000000
+      internalID: 4911855826034239093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_17"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 663
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df133e8a678a1d10800000000000000
+      internalID: 2097137468216385497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_18"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 668
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ee4309050ee6650800000000000000
+      internalID: 6228161971321368096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_19"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 649
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9673f4b4e536b6ef0800000000000000
+      internalID: -113888108926257303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_20"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 639
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58021c7bec859b20800000000000000
+      internalID: 3140571258187548764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_21"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 632
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366ad6b36abe2e0d0800000000000000
+      internalID: -3394892069889792413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_22"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 617
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36ab3d29715a3240800000000000000
+      internalID: 4772216336044238398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_23"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 594
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb77da2f06ab36c40800000000000000
+      internalID: 5504448095127959487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_24"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 612
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a110dc76582b098d0800000000000000
+      internalID: -2841575078828900070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_25"
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 584
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f033e1b17c9e5ab50800000000000000
+      internalID: 6603941469971428111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_26"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 572
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32007d913f9143d0800000000000000
+      internalID: -3224120822776987074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_27"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 557
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6126e32bfe8ef06d0800000000000000
+      internalID: -3021940708757052906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_28"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 489
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a257ea8b3bba0d5d0800000000000000
+      internalID: -3039740960089148118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_29"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 557
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d371fbaac14dc6370800000000000000
+      internalID: 8317255831435286333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_30"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 518
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75cb30cc34b2b3e0800000000000000
+      internalID: -2039369508229233284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_31"
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 483
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3788de44b433911d0800000000000000
+      internalID: -3379613646992865165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_32"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 477
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4994e4d072f5490800000000000000
+      internalID: -7755437095207201576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_33"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 484
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae198e7abf9a771b0800000000000000
+      internalID: -5658867508448816662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_34"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 468
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff768987530772d40800000000000000
+      internalID: 5559535639970998271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_35"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbafdb530d1837300800000000000000
+      internalID: 248685135690332860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_36"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 449
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6195fe2b176907c00800000000000000
+      internalID: 896381740924229910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_37"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4bd4303ae2593c0800000000000000
+      internalID: -4353522187113745244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_38"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d46bbe53ac6f4e0800000000000000
+      internalID: -1948147455854490232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_39"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 437
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c203276f9ebff5140800000000000000
+      internalID: 4710760717533458476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_40"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 394
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede4d854f2ed587b0800000000000000
+      internalID: -5222523898254504226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_41"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 402
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4ef35a0c6ce3a00800000000000000
+      internalID: 738245919643788518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_42"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 394
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c24f93f8f8972f0800000000000000
+      internalID: -974589999033602959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_43"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 376
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8764685c24dac3ca0800000000000000
+      internalID: -6035758898289949064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_44"
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 360
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4fc69eb7b7fa240800000000000000
+      internalID: 4805195099555034309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_45"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 380
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff82ff1d50b4be6b0800000000000000
+      internalID: -5266032850909583105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_46"
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 382
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4133e1d56234f10800000000000000
+      internalID: 2252686419995858108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_47"
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 372
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c26cc297557477b0800000000000000
+      internalID: -5227424248484830522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_48"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a115fe2ea596a6800800000000000000
+      internalID: 606412938910060826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_0": -6829199426294230681
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_1": -3483216364907442196
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_10": 8895768301492108364
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_11": 4695633569840853139
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_12": 8773349412589767143
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_13": -3197710485365702314
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_14": -5605544621485404056
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_15": -3165678100520408771
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_16": 4911855826034239093
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_17": 2097137468216385497
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_18": 6228161971321368096
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_19": -113888108926257303
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_2": 5249925093133027601
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_20": 3140571258187548764
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_21": -3394892069889792413
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_22": 4772216336044238398
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_23": 5504448095127959487
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_24": -2841575078828900070
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_25": 6603941469971428111
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_26": -3224120822776987074
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_27": -3021940708757052906
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_28": -3039740960089148118
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_29": 8317255831435286333
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_3": -4540334351778458584
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_30": -2039369508229233284
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_31": -3379613646992865165
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_32": -7755437095207201576
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_33": -5658867508448816662
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_34": 5559535639970998271
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_35": 248685135690332860
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_36": 896381740924229910
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_37": -4353522187113745244
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_38": -1948147455854490232
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_39": 4710760717533458476
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_4": -1006727507281875973
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_40": -5222523898254504226
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_41": 738245919643788518
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_42": -974589999033602959
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_43": -6035758898289949064
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_44": 4805195099555034309
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_45": -5266032850909583105
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_46": 2252686419995858108
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_47": -5227424248484830522
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_48": 606412938910060826
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_5": 2512826683593591800
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_6": 1639440166133932646
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_7": 5894945441465458070
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_8": -7831450109830635377
+      "\u2014Pngtree\u2014abstract calligraphy black luxury gold_4888514_9": -1842937674488283139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
